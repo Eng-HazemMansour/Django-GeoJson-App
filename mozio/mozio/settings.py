@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-hb&pk7@^i)2f9&6k&)3t2rs#yukle+f=c-i!d**#ped%0z*fo&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mozio-geojson.herokuapp.com/']
 
 
 # Application definition
